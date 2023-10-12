@@ -3,7 +3,7 @@
 
 ## The demonstration video can be found at the link:
 
-![self-diagnosis demo]("Figure3_9.png", "self-diagnosis demo")
+![self-diagnosis demo](Figure3_9.png "self-diagnosis demo")
 
 
 
