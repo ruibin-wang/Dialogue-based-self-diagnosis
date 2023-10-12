@@ -36,16 +36,16 @@ System: Do you have confusion or elevated core body temperature?
 
 Response:first
 
-System: Do you have drowsy or itching ?
+System: Do you have drowsy or itching?
 
 Response:first
 
-System: Do you have illness or headache ?
+System: Do you have illness or headache?
 
 Response:both
 
 You might have 
-Acute kidney injury: with a possibility of 0.8 \n
+Acute kidney injury: with a possibility of 0.8
 Appendicitis: with a possibility of 0.5.
 
 
