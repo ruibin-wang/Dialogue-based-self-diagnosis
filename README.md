@@ -1,11 +1,17 @@
 # Dialogue-based-self-diagnosis
 
 
-## The demonstration video can be found at the link:
+## Screenshot and demonstration video:
+
+
+
+
+#### Screenshot
 
 ![self-diagnosis demo](Figure3_9.png "self-diagnosis demo")
 
 
+#### demonstration video
 
 The video demo can be found at: [Demo](https://drive.google.com/file/d/1HlgtIaVTiGY7xNVuruDLeJ9FHRvo8iw0/view?usp=sharing)
 
@@ -39,7 +45,7 @@ System: Do you have illness or headache ?
 Response:both
 
 You might have 
-Acute kidney injury: with a possibility of 0.8
+Acute kidney injury: with a possibility of 0.8 \n
 Appendicitis: with a possibility of 0.5.
 
 
