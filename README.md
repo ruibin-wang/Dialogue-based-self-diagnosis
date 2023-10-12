@@ -3,7 +3,7 @@
 
 ## The demonstration video can be found at the link:
 
-![self-diagnosis demo](\Figure3_9.png)
+![self-diagnosis demo](Figure3_9.png)
 
 
 [Demo](https://drive.google.com/file/d/1HlgtIaVTiGY7xNVuruDLeJ9FHRvo8iw0/view?usp=sharing)
